@@ -13,7 +13,7 @@ and open the template in the editor.
         
     <body>
         
-        <button id='btn' type='button'>przeslij do bazy</button>
+        <button id='get-json' type='button'>get users</button>
         <div id='response'>
             
         </div>
